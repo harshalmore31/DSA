@@ -11,6 +11,10 @@ int main(){
     // cout<<sizeof(A)<<endl;         // 5 int data * 4 bytes ( each ) = 20 
 
     // cout<<A[1]<<endl;          // Used in cpp
+
+    // A[10] 
+    // then as we know A[10] = A[0]->A[9] then A[10] will  program is reading memory beyond the allocated space
+
     // printf("%d\n",A[2]);       // Used in c
 
     // how to print each int data in an array

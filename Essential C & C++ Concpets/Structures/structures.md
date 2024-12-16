@@ -1,5 +1,9 @@
 ## Structures
 
+Collection of dis-similar datatypes under one name to utilize a group of different datatypes
+
+You can make a user_defined datatype
+
 If we consider a rectangle 
 
 ```cpp
